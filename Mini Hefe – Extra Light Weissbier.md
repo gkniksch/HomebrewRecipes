@@ -8,22 +8,24 @@
 ---
 
 ## Summary
-| Batch Size | Pre-Boil Size     | Boil Time | Efficiency |
-|------------|------------------|-----------|------------|
-| 11 gal     | 14 gal           | 60 min    | 70%        |
+| Method     | Style      | Boil Time | Batch Size | Pre-Boil Size | Efficiency |
+|------------|-----------|-----------|------------|---------------|------------|
+| All Grain  | Weissbier | 60 min    | 11 gal     | 14 gal        | 70%        |
 
-| OG    | FG    | ABV   | IBU  | SRM  | Calories (12oz) | Carbs (12oz) |
-|-------|-------|-------|------|------|-----------------|---------------|
-| 1.024 | 1.009 | 2.1%  | 6.6  | 2.6° | 80              | 10.3 g        |
+| Pre-Boil Gravity | Post-Boil Gravity | OG    | FG    | ABV   | IBU  | SRM  | Calories (12oz) | Carbs (12oz) | Mash pH |
+|-----------------|-----------------|-------|-------|-------|------|------|-----------------|---------------|---------|
+| 1.019           | 1.024           | 1.024 | 1.008 | 2.1%  | 6.7  | 4.4° | 79              | 9.6 g         | n/a     |
 
 ---
 
 ## Fermentables
-| lb    | Fermentable        | PPG | °L  | % of Bill |
-|-------|-------------------|-----|-----|------------|
-| 5.0   | German – Pilsner   | 38  | 1.6 | 50%       |
-| 2.0   | German – Vienna    | 37  | 4   | 20%       |
-| 3.0   | American – White Wheat | 40 | 2.8 | 30%    |
+| Amount  | Fermentable                          | PPG | °L  | % of Bill |
+|---------|--------------------------------------|-----|-----|-----------|
+| 4.0 lb  | German – Pilsner                     | 38  | 1.6 | 40%       |
+| 2.0 lb  | German – Vienna                      | 37  | 4   | 20%       |
+| 3.0 lb  | American – White Wheat               | 40  | 2.8 | 30%       |
+| 0.5 lb  | Aromatic Malt                        | 35  | 20  | 5%        |
+| 0.5 lb  | American – Caramel / Crystal 40L     | 34  | 40  | 5%        |
 
 **Total Grain Bill:** 10 lbs  
 
