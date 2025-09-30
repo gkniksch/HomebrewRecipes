@@ -1,4 +1,4 @@
-# Bairn Brown – Extra Light British Brown Ale  
+# Bairn Brown – Small British Brown Ale  
 
 ## Brew Dates
 | Date 1 | Date 2 | Date 3 | Date 4 | Date 5 | Date 6 |
