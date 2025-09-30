@@ -1,4 +1,4 @@
-# Two Stroke II – American Light Lager  
+# Two Stroke II – Extra Light Cream Ale  
 *Recipe by BeachedBrew on 6/28/2025*  
 
 ---
