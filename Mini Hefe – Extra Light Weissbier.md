@@ -1,5 +1,9 @@
 # Mini Hefe – Extra Light Weissbier  
-*Recipe created Monday September 29th 2025, not yet Brewed*  
+
+## Brew Dates
+| Date 1 | Date 2 | Date 3 | Date 4 | Date 5 | Date 6 |
+|--------|--------|--------|--------|--------|--------|
+| _____ / _____ /_____ | _____ / _____ /_____ | _____ / _____ /_____ | _____ / _____ /_____ | _____ / _____ /_____ | _____ / _____ /_____ |  
 
 ---
 
