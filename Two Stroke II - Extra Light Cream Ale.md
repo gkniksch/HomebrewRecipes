@@ -1,5 +1,5 @@
 # Two Stroke II – Extra Light Cream Ale  
-*Recipe by BeachedBrew on 6/28/2025*  
+*Brewed: 08/02/2025*  
 
 ---
 
