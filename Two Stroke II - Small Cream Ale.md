@@ -1,4 +1,4 @@
-# Two Stroke II – Extra Light Cream Ale  
+# Two Stroke II – Small Cream Ale  
 
 ## Brew Dates
 | Date 1 | Date 2 | Date 3 | Date 4 | Date 5 | Date 6 |
