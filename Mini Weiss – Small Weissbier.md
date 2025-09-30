@@ -1,4 +1,4 @@
-# Mini Weiss – Extra Light Weissbier  
+# Mini Weiss – Small Weissbier  
 
 ## Brew Dates
 | Date 1 | Date 2 | Date 3 | Date 4 | Date 5 | Date 6 |
