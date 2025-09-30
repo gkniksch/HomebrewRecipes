@@ -1,5 +1,9 @@
-# Bairn Brown – British Brown Ale  
-*Brewed 08/09/2025*  
+# Bairn Brown – Extra Light British Brown Ale  
+
+## Brew Dates
+| Date 1 | Date 2 | Date 3 | Date 4 | Date 5 | Date 6 |
+|--------|--------|--------|--------|--------|--------|
+| 08/09/2025 | _____ / _____ /_____ | _____ / _____ /_____ | _____ / _____ /_____ | _____ / _____ /_____ | _____ / _____ /_____ |
 
 ---
 
