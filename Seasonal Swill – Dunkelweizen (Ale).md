@@ -50,8 +50,8 @@
 | Name            | Type   | Use       | Amount | Time  |
 |-----------------|--------|------------|--------|-------|
 | Vanilla Extract | Flavor | Bottling   | 2 tsp  | —     |
-| Nutmeg          | Spice  | Boil       | 0.5 tsp | —     |
-| Cinnamon        | Spice  | Boil       | 1 tsp  | —     |
+| Nutmeg          | Spice  | Boil       | 0.5 tsp | FO     |
+| Cinnamon        | Spice  | Boil       | 1 tsp  | FO     |
 
 ---
 
