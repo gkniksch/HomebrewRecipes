@@ -25,13 +25,13 @@
 | Amount  | Fermentable                   | Type  | Mashed | Late | Yield (DBFG) | °L (SRM) |
 |----------|-------------------------------|-------|--------|------|---------------|-----------|
 | 3.0 lb   | Vienna Malt                   | Grain | Yes    | No   | 78%           | 4.6       |
-| 2.0 lb   | Briess – Wheat Malt, White    | Grain | Yes    | No   | 85%           | 2.6       |
-| 1.0 lb   | Briess – Aromatic Malt        | Grain | Yes    | No   | 77%           | 26.2      |
-| 1.0 lb   | Briess – Caramel Malt 60L     | Grain | Yes    | No   | 76%           | 80.0      |
-| 1.0 lb   | Briess – Caramel Malt 80L     | Grain | Yes    | No   | 75%           | 106.9     |
-| 1.0 lb   | Weyermann – Light Munich Malt | Grain | Yes    | No   | 82%           | 8.5       |
-| 0.5 lb   | Briess – 2 Row Caramel Malt 40L | Grain | Yes | No   | 77%           | 53.1      |
-| 0.5 lb   | Briess – Midnight Wheat Malt  | Grain | Yes    | No   | 55%           | 739.3     |
+| 2.0 lb   | Wheat Malt, White             | Grain | Yes    | No   | 85%           | 2.6       |
+| 1.0 lb   | Aromatic Malt                 | Grain | Yes    | No   | 77%           | 26.2      |
+| 1.0 lb   | Caramel Malt 60L              | Grain | Yes    | No   | 76%           | 80.0      |
+| 1.0 lb   | Caramel Malt 80L              | Grain | Yes    | No   | 75%           | 106.9     |
+| 1.0 lb   | Light Munich Malt             | Grain | Yes    | No   | 82%           | 8.5       |
+| 0.5 lb   | Caramel Malt 40L              | Grain | Yes    | No   | 77%           | 53.1      |
+| 0.5 lb   | Midnight Wheat Malt           | Grain | Yes    | No   | 55%           | 739.3     |
 
 **Total Grain Bill:** 10.0 lbs  
 
