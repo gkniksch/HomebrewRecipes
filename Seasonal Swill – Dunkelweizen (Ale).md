@@ -17,48 +17,51 @@
 
 | OG     | FG     | ABV  | IBU | SRM  | Calories (12oz) |
 |--------|--------|------|------|------|-----------------|
-| 1.023  | 1.008  | 1.9% | 6.5  | 18.5° | 73              |
+| 1.023  | 1.008  | 1.9% | 6.4  | 19.3° | 75              |
 
 ---
 
 ## Fermentables
-| Amount  | Fermentable                | Type  | Mashed | Late | Yield (DBFG) | °L (SRM) |
-|----------|----------------------------|-------|--------|------|---------------|-----------|
-| 5.0 lb   | Vienna Malt                | Grain | Yes    | No   | 78%           | 4.6       |
-| 2.0 lb   | Briess – Wheat Malt, White | Grain | Yes    | No   | 85%           | 2.6       |
-| 1.0 lb   | Briess – Caramel Malt 60L  | Grain | Yes    | No   | 76%           | 80.0      |
-| 1.0 lb   | Briess – Caramel Malt 80L  | Grain | Yes    | No   | 75%           | 106.9     |
-| 0.5 lb   | Briess – Aromatic Malt     | Grain | Yes    | No   | 77%           | 26.2      |
-| 0.5 lb   | Briess – Midnight Wheat Malt | Grain | Yes | No   | 55%           | 739.3     |
+| Amount  | Fermentable                   | Type  | Mashed | Late | Yield (DBFG) | °L (SRM) |
+|----------|-------------------------------|-------|--------|------|---------------|-----------|
+| 3.0 lb   | Vienna Malt                   | Grain | Yes    | No   | 78%           | 4.6       |
+| 2.0 lb   | Briess – Wheat Malt, White    | Grain | Yes    | No   | 85%           | 2.6       |
+| 1.0 lb   | Briess – Aromatic Malt        | Grain | Yes    | No   | 77%           | 26.2      |
+| 1.0 lb   | Briess – Caramel Malt 60L     | Grain | Yes    | No   | 76%           | 80.0      |
+| 1.0 lb   | Briess – Caramel Malt 80L     | Grain | Yes    | No   | 75%           | 106.9     |
+| 1.0 lb   | Weyermann – Light Munich Malt | Grain | Yes    | No   | 82%           | 8.5       |
+| 0.5 lb   | Briess – 2 Row Caramel Malt 40L | Grain | Yes | No   | 77%           | 53.1      |
+| 0.5 lb   | Briess – Midnight Wheat Malt  | Grain | Yes    | No   | 55%           | 739.3     |
 
 **Total Grain Bill:** 10.0 lbs  
 
 ---
 
 ## Hops
-| Amount | Variety     | AA%  | Use       | Time     | Form   | IBU |
-|---------|-------------|------|-----------|----------|--------|-----|
-| 0.25 oz | Magnum (GR) | 13.5 | Boil      | 60 min   | Pellet | 6.5 |
+| Amount | Variety   | AA%  | Use  | Time     | Form   | IBU |
+|---------|-----------|------|------|----------|--------|-----|
+| 0.5 oz  | Perle (GR) | 6.7  | Boil | 60 min   | —      | 6.4 |
 
-**Total Hops:** 0.25 oz  
+**Total Hops:** 0.5 oz  
 
 ---
 
 ## Misc
-| Name     | Type  | Use  | Amount | Time  |
-|-----------|-------|------|--------|-------|
-| Cinnamon | Spice | Mash | 2 tsp  | flame out |
-| Nutmeg   | Spice | Mash | 1 tsp  | flame out |
+| Name            | Type   | Use       | Amount | Time  |
+|-----------------|--------|------------|--------|-------|
+| Vanilla Extract | Flavor | Bottling   | 2 tsp  | —     |
+| Nutmeg          | Spice  | Boil       | 0.5 tsp | —     |
+| Cinnamon        | Spice  | Boil       | 1 tsp  | —     |
 
 ---
 
 ## Yeast
-| Name          | Type | Form | Amount | Stage   |
-|----------------|------|------|--------|----------|
-| SafAle WB-06   | Ale  | Dry  | —      | Primary  |
+| Name         | Type | Form | Amount | Stage   |
+|---------------|------|------|--------|----------|
+| SafAle WB-68  | Ale  | Dry  | —      | Primary  |
 
 ---
 
 ## Notes
 *Estimated using Tinseth and Morey approximations.*  
-*Spices listed with zero amounts—consider adding to taste at mash or secondary.*
+*Spices and flavoring added post-boil and at bottling.*
